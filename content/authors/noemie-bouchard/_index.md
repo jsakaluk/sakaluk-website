@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Noémie Bouchard"
+title: "Noémie Bouchard (she/her)"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role:
+role: Honours Student
 
 # Organizations/Affiliations
 organizations:
@@ -18,44 +18,18 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Noémie Bouchard (she/her) is an honours thesis student in psychology. Her research interests include romantic relationships and sexual satisfaction. For her honours thesis project, she is doing a meta-analysis on the *orgasm gap*--the difference between men and women’s orgasm frequency. Outside of psychology, she enjoys spending time with family and friends and watching reality TV.
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- Meta-Analysis
+- Sexual Satisfaction
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/USERNAME
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
-- icon: github
-  icon_pack: fab
-  link: https://github.com/USERNAME
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  - course: Bachelor of Arts
+    institution: Psychology
+    year: 2020 (Anticipated)
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

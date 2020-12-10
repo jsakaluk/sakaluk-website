@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Robyn Kilshaw"
+title: "Robyn Kilshaw (she/her)"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Graduate Student (University of Utah)
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: 
+- name: University of Utah
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

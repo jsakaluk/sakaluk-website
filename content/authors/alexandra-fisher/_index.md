@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Alexandra Fisher"
+title: "Alexandra Fisher (she/her)"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -10,29 +10,27 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Postdoctoral Fellow (University of Exeter)
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations
-organizations:
-- name: 
+organizations: 
+- name: University of Exeter
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-# List each interest with a dash
-interests:
-- Interest 1
-- Interest 2
-
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - course: PhD in Social Psychology
+    institution: University of Victoria
+    year: 2020
+  - course: MSc in Social Psychology
+    institution: University of Victoria
+    year: 2015
+  - course: BSc in Psychology
+    institution: University of Victoria
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons

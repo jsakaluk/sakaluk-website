@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "John K. Sakaluk"
+title: "John K. Sakaluk (he/him)"
 
 # Username (this should match the folder name and the name on publications)
 authors:

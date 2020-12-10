@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Graham Berlin"
+title: "Graham Berlin (he/him)"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Graduate Student (Ryerson University)
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: 
+- name: Ryerson University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
