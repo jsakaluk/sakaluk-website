@@ -21,6 +21,7 @@ content:
   - Graduate Students
   - Honours Students
   - Research Assistants
+  - Lab Alumni
   - Close Collaborators
 design:
   show_interests: false
