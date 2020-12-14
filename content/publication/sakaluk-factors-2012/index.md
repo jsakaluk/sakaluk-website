@@ -6,7 +6,7 @@ title: Factors Influencing University Students’ Explicit and Implicit Sexual D
 subtitle: ''
 summary: ''
 authors:
-- John K. Sakaluk
+- john-sakaluk
 - Robin R. Milhausen
 tags: []
 categories: []

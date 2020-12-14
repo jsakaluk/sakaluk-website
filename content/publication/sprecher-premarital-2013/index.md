@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Susan Sprecher
 - Stanislav Treger
-- John K. Sakaluk
+- john-sakaluk
 tags: []
 categories: []
 date: '2013-11-01'

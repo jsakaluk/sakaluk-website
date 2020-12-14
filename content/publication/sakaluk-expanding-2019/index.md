@@ -6,7 +6,7 @@ title: 'Expanding Statistical Frontiers in Sexual Science: Taxometric, Invarianc
 subtitle: ''
 summary: ''
 authors:
-- John Kitchener Sakaluk
+- john-sakaluk
 tags: []
 categories: []
 date: '2019-06-01'

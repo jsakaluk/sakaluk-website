@@ -6,7 +6,7 @@ title: 'Problems with recall-based attachment style priming paradigms: Exclusion
 subtitle: ''
 summary: ''
 authors:
-- John Kitchener Sakaluk
+- john-sakaluk
 tags: []
 categories: []
 date: '2014-11-01'

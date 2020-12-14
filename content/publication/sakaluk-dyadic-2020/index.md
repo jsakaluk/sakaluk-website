@@ -6,9 +6,9 @@ title: Dyadic Measurement Invariance and Its Importance for  Replicability in Ro
 subtitle: ''
 summary: ''
 authors:
-- John Kitchener Sakaluk
-- Alexandra N. Fisher
-- Robyn E. Kilshaw
+- john-sakaluk
+- alexandra-fisher
+- robyn-kilshaw
 tags: []
 categories: []
 date: '2020-01-01'

@@ -6,15 +6,15 @@ title: 'Evaluating the evidential value of empirically supported psychological t
 subtitle: ''
 summary: ''
 authors:
-- John Kitchener Sakaluk
+- john-sakaluk
 - Alexander J. Williams
-- Robyn E. Kilshaw
+- robyn-kilshaw
 - Kathleen Teresa Rhyner
 tags: []
 categories: []
 date: '2019-08-01'
 lastmod: 2020-12-03T11:27:37-05:00
-featured: false
+featured: true
 draft: false
 
 # Featured image

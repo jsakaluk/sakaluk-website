@@ -6,7 +6,7 @@ title: Promoting Transparent Reporting of Conflicts of Interests and Statistical
 subtitle: ''
 summary: ''
 authors:
-- John K. Sakaluk
+- john-sakaluk
 - Cynthia A. Graham
 tags: []
 categories: []

@@ -9,7 +9,7 @@ authors:
 - Yevgeny Botanov
 - Robyn E. Kilshaw
 - Ryan E. Wong
-- John Kitchener Sakaluk
+- john-sakaluk
 tags: []
 categories: []
 date: '2020-03-01'

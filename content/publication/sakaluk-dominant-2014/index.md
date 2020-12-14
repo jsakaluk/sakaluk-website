@@ -6,7 +6,7 @@ title: 'Dominant Heterosexual Sexual Scripts in Emerging Adulthood: Conceptualiz
 subtitle: ''
 summary: ''
 authors:
-- John K. Sakaluk
+- john-sakaluk
 - Leah M. Todd
 - Robin Milhausen
 - Nathan J. Lachowsky

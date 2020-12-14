@@ -6,7 +6,7 @@ title: 'A Methodological Review of Exploratory Factor Analysis in Sexuality Rese
 subtitle: ''
 summary: ''
 authors:
-- John K. Sakaluk
+- john-sakaluk
 - Stephen D. Short
 tags: []
 categories: []

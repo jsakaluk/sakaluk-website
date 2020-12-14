@@ -6,7 +6,7 @@ title: 'Exploring Small, Confirming Big: An alternative system to The New Statis
 subtitle: ''
 summary: ''
 authors:
-- John Kitchener Sakaluk
+- john-sakaluk
 tags: []
 categories: []
 date: '2016-09-01'

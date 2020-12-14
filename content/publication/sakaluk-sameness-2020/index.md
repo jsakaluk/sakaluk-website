@@ -6,9 +6,9 @@ title: 'Sameness and Difference in Psychological Research on Consensually Non-Mo
 subtitle: ''
 summary: ''
 authors:
-- John K. Sakaluk
+- john-sakaluk
 - Christopher Quinn-Nilas
-- Alexandra N. Fisher
+- alexandra-fisher
 - Connor E. Leshner
 - Ella Huber
 - Jessica R. Wood
@@ -16,7 +16,7 @@ tags: []
 categories: []
 date: '2020-08-01'
 lastmod: 2020-12-03T11:27:41-05:00
-featured: false
+featured: true
 draft: false
 
 # Featured image

@@ -10,7 +10,7 @@ authors:
 - K. Jensen
 - C. M. House
 - S. K. Sakaluk
-- J. K. Sakaluk
+- john-sakaluk
 - J. Hunt
 tags: []
 categories: []

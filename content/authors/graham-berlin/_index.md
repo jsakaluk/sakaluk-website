@@ -17,22 +17,18 @@ organizations:
 - name: Ryerson University
   url: ""
 
-# Short bio (displayed in user profile at end of posts)
-bio: 
-
-# List each interest with a dash
-interests:
-- Interest 1
-- Interest 2
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - course: MA in Psychology
+    institution: Ryerson University
+    year: in progress
+  - course: BA in Psychology
+    institution: University of Psychology
+    year: 2019
+  - course: BFA
+    institution: Concordia University
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons

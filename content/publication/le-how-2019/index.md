@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Bonnie M. Le
-- John K. Sakaluk
+- john-sakaluk
 - Lisa C. Day
 - Emily A. Impett
 tags: []

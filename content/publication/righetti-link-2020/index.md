@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Francesca Righetti
-- John K. Sakaluk
+- john-sakaluk
 - Ruddy Faure
 - Emily A. Impett
 tags: []

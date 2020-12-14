@@ -6,7 +6,7 @@ title: 'Promoting replicable sexual science: A methodological review and call fo
 subtitle: ''
 summary: ''
 authors:
-- John Kitchener Sakaluk
+- john-sakaluk
 tags: []
 categories: []
 date: '2016-04-01'

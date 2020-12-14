@@ -6,8 +6,8 @@ title: 'Measurement memo I: Updated practices in psychological measurement for s
 subtitle: ''
 summary: ''
 authors:
-- John K. Sakaluk
-- Alexandra N. Fisher
+- john-sakaluk
+- alexandra-fisher
 tags: []
 categories: []
 date: '2019-08-01'

@@ -6,7 +6,7 @@ title: 'On the strength of ties that bind: Measuring the strength of norms in ro
 subtitle: ''
 summary: ''
 authors:
-- John K. Sakaluk
+- john-sakaluk
 - Monica Biernat
 - Bonnie M. Le
 - Sarah Lundy

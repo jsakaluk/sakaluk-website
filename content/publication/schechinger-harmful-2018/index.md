@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Heath A. Schechinger
-- John Kitchener Sakaluk
+- john-sakaluk
 - Amy C. Moors
 tags: []
 categories: []

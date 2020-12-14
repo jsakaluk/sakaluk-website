@@ -6,7 +6,7 @@ title: The Causal Effects of Relational Security and Insecurity on Condom Use At
 subtitle: ''
 summary: ''
 authors:
-- John Kitchener Sakaluk
+- john-sakaluk
 - Omri Gillath
 tags: []
 categories: []

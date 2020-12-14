@@ -6,7 +6,7 @@ title: Analytic Review as a Solution to the Misreporting of Statistical Results 
 subtitle: ''
 summary: ''
 authors:
-- John Sakaluk
+- john-sakaluk
 - Alexander Williams
 - Monica Biernat
 tags: []

@@ -5,7 +5,7 @@ title: 'Self-esteem and sexual health: a multilevel meta-analytic review'
 subtitle: ''
 summary: ''
 authors:
-- John K. Sakaluk
+- john-sakaluk
 - James Kim
 - Emily Campbell
 - Allegra Baxter

@@ -6,8 +6,8 @@ title: Are single people a stigmatized 'group'? Evidence from examinations of so
 subtitle: ''
 summary: ''
 authors:
-- Alexandra N. Fisher
-- John K. Sakaluk
+- alexandra-fisher
+- john-sakaluk
 tags: []
 categories: []
 date: '2019-05-01'

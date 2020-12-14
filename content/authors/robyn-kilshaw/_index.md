@@ -17,22 +17,18 @@ organizations:
 - name: University of Utah
   url: ""
 
-# Short bio (displayed in user profile at end of posts)
-bio: 
-
-# List each interest with a dash
-interests:
-- Interest 1
-- Interest 2
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - course: MA in Clinical Psychology
+    institution: University of Utah
+    year: in progress
+  - course: BSc in Psychology
+    institution: University of Victoria
+    year: 2017
+  - course: BSc in Statistics
+    institution: University of Victoria
+    year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons

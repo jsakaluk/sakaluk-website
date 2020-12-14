@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Ryan E Wong
-- John K Sakaluk
+- john-sakaluk
 - Mauricio A Garcia-Barrera
 tags: []
 categories: []

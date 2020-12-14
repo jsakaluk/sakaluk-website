@@ -8,7 +8,7 @@ summary: ''
 authors:
 - James J. Kim
 - Amy Muise
-- John K. Sakaluk
+- john-sakaluk
 - Natalie O. Rosen
 - Emily A. Impett
 tags: []

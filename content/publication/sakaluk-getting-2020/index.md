@@ -6,7 +6,7 @@ title: 'Getting Serious About the Assessment and Promotion of Replicable Sexual 
 subtitle: ''
 summary: ''
 authors:
-- John K. Sakaluk
+- john-sakaluk
 tags: []
 categories: []
 date: '2020-07-01'
