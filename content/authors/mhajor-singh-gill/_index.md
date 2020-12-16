@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Mhajor Singh Gill"
+title: "Mhajor Singh Gill (He/Him)"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -18,18 +18,18 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: bio goes here
+bio: ""
 
 # List each interest with a dash
 interests:
-- interest 1
-- interest 2
+- Romantic relationships
+- Social influence
 
 education:
   courses:
   - course: Bachelor of Arts
     institution: Psychology
-    year: 2020 (Anticipated)
+    year: 2022 (Anticipated)
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

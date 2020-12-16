@@ -1,10 +1,10 @@
 ---
 # Display name
-title: "Yumei Wu"
+title: "Yuemei Wu (She/Her)"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "yumei-wu"
+- "yuemei-wu"
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,18 +18,19 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: bio goes here
+bio: ""
 
 # List each interest with a dash
 interests:
-- interest 1
-- interest 2
+- Media psychology
+- Online dating
+- Relationship decisions
 
 education:
   courses:
   - course: Bachelor of Arts
     institution: Psychology
-    year: 2020 (Anticipated)
+    year: 2022 (Anticipated)
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
