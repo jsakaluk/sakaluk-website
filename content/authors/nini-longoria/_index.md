@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Nini  (she/her)"
+title: "Nini Longoria (she/her)"
 
 # Username (this should match the folder name and the name on publications)
 authors:
