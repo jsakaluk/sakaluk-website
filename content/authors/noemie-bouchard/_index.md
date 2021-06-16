@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Honours Student
+role: Lab Manager
 
 # Organizations/Affiliations
 organizations:
@@ -28,8 +28,8 @@ interests:
 education:
   courses:
   - course: Bachelor of Arts
-    institution: Psychology
-    year: 2020 (Anticipated)
+    institution: Psychology (Honours Specialization)
+    year: 2021 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -40,5 +40,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Honours Students
+- Lab Manager
 ---

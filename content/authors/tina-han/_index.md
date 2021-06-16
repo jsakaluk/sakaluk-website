@@ -1,10 +1,10 @@
 ---
 # Display name
-title: "Mhajor Singh Gill (he/him)"
+title: "Tina Han (She/her)"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "mhajor-singh-gill"
+- "tina-han"
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,8 +22,7 @@ bio: ""
 
 # List each interest with a dash
 interests:
-- Romantic relationships
-- Social influence
+- TBD
 
 education:
   courses:

@@ -19,6 +19,7 @@ content:
   user_groups:
   - Principal Investigator
   - Graduate Students
+  - Lab Manager
   - Honours Students
   - Research Assistants
   - Lab Alumni

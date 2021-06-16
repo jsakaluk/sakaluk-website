@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Yuemei Wu (She/Her)"
+title: "Yuemei Wu (she/her)"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Research Assistant
+role: Honours Student
 
 # Organizations/Affiliations
 organizations:
@@ -41,5 +41,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Assistants
+- Honours Students
 ---

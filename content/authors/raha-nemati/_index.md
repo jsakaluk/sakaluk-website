@@ -1,10 +1,10 @@
 ---
 # Display name
-title: "Mhajor Singh Gill (he/him)"
+title: "Raha Nemati (She/her)"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "mhajor-singh-gill"
+- "raha-nemati"
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,14 +22,15 @@ bio: ""
 
 # List each interest with a dash
 interests:
-- Romantic relationships
-- Social influence
+- Relationships in Society
+- Social Identity
+- Cognitive Behaviour
 
 education:
   courses:
-  - course: Bachelor of Arts
+  - course: Bachelor of Science
     institution: Psychology
-    year: 2022 (Anticipated)
+    year: 2023 (Anticipated)
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

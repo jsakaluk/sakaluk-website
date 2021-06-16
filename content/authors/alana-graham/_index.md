@@ -1,10 +1,10 @@
 ---
 # Display name
-title: "Mhajor Singh Gill (he/him)"
+title: "Alana Graham (she/her)"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "mhajor-singh-gill"
+- "alana-graham"
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,14 +22,14 @@ bio: ""
 
 # List each interest with a dash
 interests:
-- Romantic relationships
-- Social influence
+- Social Determinants of Mental Health
+- Survey Design
 
 education:
   courses:
   - course: Bachelor of Arts
-    institution: Psychology
-    year: 2022 (Anticipated)
+    institution: Psychology (Honours Specialization)
+    year: 2021
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
