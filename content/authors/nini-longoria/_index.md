@@ -18,20 +18,26 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Coming soon
+bio: 
 
 # List each interest with a dash
 interests:
-- Coming soon
+- Sexual satisfaction 
+- Romantic Relationships
+- Gender 
+- Sexual attraction
 
 education:
   courses:
   - course: MSc in Psychology
     institution: Western University
-    year: 2022 (in progress)
-  - course: BSc in Psychology and Global Health
-    institution: University of Toronto
-    year: 2020
+    year: 2023 (anticipated)
+  - course: BA in Psychology
+    institution: Texas A&M University Corpus Christi
+    year: 2021
+  - course: BA in Business
+    institution: SRH University Berlin
+    year: 2015
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
