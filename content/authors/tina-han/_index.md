@@ -22,12 +22,13 @@ bio: ""
 
 # List each interest with a dash
 interests:
-- TBD
+- Social factors of sexual satisfaction
+- Neurobiological determinants of behavior
 
 education:
   courses:
-  - course: Bachelor of Arts
-    institution: Psychology
+  - course: Bachelor of Medical Sciences (Honours Specialization)
+    institution: Interdisciplinary Medical Science
     year: 2022 (Anticipated)
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
